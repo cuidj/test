@@ -12,6 +12,7 @@ public class Test {
 		Student s1 = new Student();	
 		System.out.println(s1.getIds());
 		System.out.println(s1.getIds().length());
+		System.out.println(s1.getName());
 	}
 
 }
